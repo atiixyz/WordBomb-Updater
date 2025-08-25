@@ -1,11 +1,11 @@
-Word Bomb Yardımcısı
-Discord ve web üzerindeki Word Bomb oyunu için geliştirilmiş; akıllı kelime bulma, insansı yazma ve otomatik oyun oynama (Auto-Pilot) özelliklerine sahip gelişmiş bir yardımcı.
+# **Word Bomb Yardımcısı**
+## Discord ve web üzerindeki Word Bomb oyunu için geliştirilmiş; akıllı kelime bulma, insansı yazma ve otomatik oyun oynama (Auto-Pilot) özelliklerine sahip gelişmiş bir yardımcı.
 
 <img width="637" height="487" alt="Screenshot_1" src="https://github.com/user-attachments/assets/660ac98c-8f78-458f-a488-34e43441dec3" />
 
 
-Özellikler
-🧠 Akıllı Kelime Bulma: Verilen heceye göre kelime listesinden en uygun kelimeyi saniyeler içinde bulur.
+## Özellikler
+### 🧠 Akıllı Kelime Bulma: Verilen heceye göre kelime listesinden en uygun kelimeyi saniyeler içinde bulur.
 🤖 İnsansı Yazma Algoritması: Gerçek bir insan gibi duraksayarak, minik hatalar yapıp düzelterek yazar, tespit edilmesi neredeyse imkansızdır.
 ⚡ Çoklu Oyun Modları: Rahat, Normal, Panik ve Allah modları ile oyun hızınıza ve stres seviyenize tam uyum sağlar.
 🎯 Stratejik Kelime Seçimi:
