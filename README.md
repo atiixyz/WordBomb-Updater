@@ -5,7 +5,7 @@
 
 
 ## Özellikler
-### 🧠 Akıllı Kelime Bulma: Verilen heceye göre kelime listesinden en uygun kelimeyi saniyeler içinde bulur.
+🧠 Akıllı Kelime Bulma: Verilen heceye göre kelime listesinden en uygun kelimeyi saniyeler içinde bulur.
 🤖 İnsansı Yazma Algoritması: Gerçek bir insan gibi duraksayarak, minik hatalar yapıp düzelterek yazar, tespit edilmesi neredeyse imkansızdır.
 ⚡ Çoklu Oyun Modları: Rahat, Normal, Panik ve Allah modları ile oyun hızınıza ve stres seviyenize tam uyum sağlar.
 🎯 Stratejik Kelime Seçimi:
