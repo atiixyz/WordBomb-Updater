@@ -1,7 +1,8 @@
 # **<div align="center">Word Bomb Yardımcısı</div>**
 ### <div align="center">Discord ve web üzerindeki Word Bomb oyunu için geliştirilmiş; akıllı kelime bulma, insansı yazma ve otomatik oyun oynama (Auto-Pilot) özelliklerine sahip gelişmiş bir yardımcı.</div>
 
-<div align="center"><img width="637" height="487" alt="Screenshot_1" src="https://github.com/user-attachments/assets/660ac98c-8f78-458f-a488-34e43441dec3" /></div>
+<div align="center"><img width="467" height="443" alt="Screenshot_2" src="https://github.com/user-attachments/assets/cbf019b9-1d74-4c6f-80fb-d9581d072909" /></div>
+
 
 
 ## **Özellikler**
